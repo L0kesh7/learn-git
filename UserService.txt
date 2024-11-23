@@ -1,2 +1,4 @@
 User service page
 processing user data
+
+trying to craete avatar for the user
